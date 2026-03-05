@@ -93,7 +93,10 @@ Shifted Spectrum
 
 The shifted spectrum demonstrates how frequency correction alters spectral peak positions.
 
-You can add screenshots of the generated plots here to demonstrate the output.
+
+<img width="1920" height="1019" alt="mri-spectrum2" src="https://github.com/user-attachments/assets/845b0e07-2923-44ee-9997-c7b3900f48f6" />
+<img width="1920" height="1001" alt="mri-spectrum1" src="https://github.com/user-attachments/assets/ea028ec6-0d79-4ed9-a9df-9e36a8d924b0" />
+
 
 ---
 
@@ -106,3 +109,4 @@ To ensure the project remains reproducible and accessible, synthetic spectra are
 This allows anyone to run and experiment with the pipeline without requiring access to clinical datasets.
 
 ---
+
